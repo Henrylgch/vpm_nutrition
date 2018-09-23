@@ -1,0 +1,29 @@
+body {
+  font-family: Raleway, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+nav {
+  margin: auto;
+  text-align: center;
+  padding: 0.5em 2em;
+}
+
+.navbar-info {
+  background-color: #2a373e;
+  color: #fff;
+  height: auto;
+}
+
+.inline {
+  display: inline;
+}
+
+p.location {
+  float: left;
+  font-weight: 600;
+}
+
+p.contact {
+  float: right;
+}
